@@ -1,1 +1,1 @@
-git-it: that sure is tasty
+git-it: that sure was tasty
